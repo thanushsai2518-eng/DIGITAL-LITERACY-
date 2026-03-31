@@ -78,6 +78,9 @@ This project helped me understand how to use digital tools effectively, maintain
  Files:  
  `task-4-email-etiquette/emails.txt`  
  `task-4-email-etiquette/social-media-checklist.txt` 
+ https://github.com/thanushsai2518-eng/DIGITAL-LITERACY-/blob/043c5c2215680efef351936a8f0095a47a860782/TASK%204%20SOCIAL%20MEDIA%20CHECKLISTDO%E2%80%99s.txt
+ https://github.com/thanushsai2518-eng/DIGITAL-LITERACY-/blob/043c5c2215680efef351936a8f0095a47a860782/TASK%204%20Subject%20Application%20for%20Summer%20Inte.txt
+ https://github.com/thanushsai2518-eng/DIGITAL-LITERACY-/blob/043c5c2215680efef351936a8f0095a47a860782/TASK%204%20Subject%20Request%20for%20Assignment%20Dead.txt
  
 
 
@@ -91,8 +94,10 @@ This project helped me understand how to use digital tools effectively, maintain
  Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
- `task-5-cybercrime/casestudy.txt`  
+ `task-5-cybercrime/casestudy.txt` 
+ https://github.com/thanushsai2518-eng/DIGITAL-LITERACY-/blob/043c5c2215680efef351936a8f0095a47a860782/TASK%205%20PHIISHING%20CASE%20STUDY%20%20%20%20%20%20%20Phishing.txt
   `task-5-cybercrime/prevention-checklist.txt`  
+  https://github.com/thanushsai2518-eng/DIGITAL-LITERACY-/blob/043c5c2215680efef351936a8f0095a47a860782/TASK%205%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check.txt
 
 
 
